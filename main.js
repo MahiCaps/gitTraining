@@ -1,3 +1,3 @@
 
-const str = "demo user r"
+const str = "demo user"
 console.log(str);
