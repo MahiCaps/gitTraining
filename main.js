@@ -3,3 +3,4 @@ arr.sort((a, b) => {
   return a - b;
 });
 console.log(arr);
+console.log("another---", arr);
